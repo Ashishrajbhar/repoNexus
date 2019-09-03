@@ -15,12 +15,12 @@
 	 <distributionManagement>
   <repository>
     <id>releases</id>
-    <name>releases</name>
+    <name>maven_rel</name>
     <url>http://localhost:8081/repository/maven_rel/</url>
   </repository>
   <snapshotRepository>
     <id>snapshots</id>
-    <name>snapshots</name>
+    <name>maven_snap</name>
     <url>http://localhost:8081/repository/maven_snap/</url>
   </snapshotRepository>
 </distributionManagement>
