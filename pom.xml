@@ -24,4 +24,5 @@
     <url>http://localhost:8081/repository/maven_snap/</url>
   </snapshotRepository>
 </distributionManagement>
+	</repositories>
 </project>
