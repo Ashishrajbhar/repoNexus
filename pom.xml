@@ -12,6 +12,12 @@
 </dependency>  
 </dependencies>  
 <repositories>
+	<repository>
+	<id>upes</id>
+	<name>Releases</name>
+	<url>hhttp://localhost:8081/repository/releases/</url>
+	</repository>
+</repositories>
 	 <distributionManagement>
   <repository>
     <id>releases</id>
@@ -24,5 +30,5 @@
     <url>http://localhost:8081/repository/maven_snap/</url>
   </snapshotRepository>
 </distributionManagement>
-	</repositories>
+	
 </project>
