@@ -12,17 +12,11 @@
 </dependency>  
 </dependencies>  
 <repositories>
-	<repository>
-	<id>upes</id>
-	<name>Releases</name>
-	<url>hhttp://localhost:8081/repository/releases/</url>
-	</repository>
-</repositories>
-<distributionManagement>
+	 <distributionManagement>
   <repository>
     <id>releases</id>
     <name>releases</name>
-    <url>http://localhost:8081/repository/releases/</url>
+    <url>http://localhost:8081/repository/maven_rel/</url>
   </repository>
   <snapshotRepository>
     <id>snapshots</id>
