@@ -27,7 +27,7 @@
   <snapshotRepository>
     <id>snapshots</id>
     <name>snapshots</name>
-    <url>http://localhost:8081/repository/snapshots/</url>
+    <url>http://localhost:8081/repository/maven_snap/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
